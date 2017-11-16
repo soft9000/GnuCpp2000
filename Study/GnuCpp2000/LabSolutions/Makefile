@@ -29,6 +29,12 @@ act107:
 	c++ -I../Headers ./act107_con_name_email.cpp -o act107.run -std=c++11
 act109:
 	c++ -I../Headers ./act109_con_name_email.cpp -o act109.run -std=c++11
+act143:
+	c++ -I../Headers ./act143_UserData.cpp -o act143.run -std=c++11
+act146:
+	c++ -I../Headers ./act146_UserData.cpp -o act146.run -std=c++11
+act149:
+	c++ -I../Headers ./act149_UserData.cpp -o act149.run -std=c++11
 act_mod:
 	c++ -I../Headers ./act_mod.cpp -o act_mod.run -std=c++11
 act_calc:
