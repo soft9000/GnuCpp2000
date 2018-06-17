@@ -7,6 +7,6 @@ For more information:
 
 [C/C++ For Beginners](https://www.udemy.com/gnu-cpp-1000)
 
-[C/C++ for Intermediate Students](https://www.udemy.com/gnu-cpp-2000)
+[C/C++ For Intermediate Students](https://www.udemy.com/gnu-cpp-2000)
 
-[C/C++ for Advanced Students](https://www.udemy.com/gnu-cpp-3000/)
+[C/C++ For Advanced Students](https://www.udemy.com/gnu-cpp-3000/)
