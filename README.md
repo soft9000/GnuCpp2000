@@ -1,5 +1,5 @@
 # GnuCpp2000
-Solutions to the similarily-named in-class / video presentation.
+Solutions to the similarly-named in-class / video presentation.
 
 Part of a three part series, on-line instructional videos are now available on Udemy.
 
